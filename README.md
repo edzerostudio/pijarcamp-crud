@@ -19,7 +19,7 @@ Simple web to Create, Read, Update and Delete your Product
 `php artisan serve`
 
 ## Screenshot!
-[image](https://user-images.githubusercontent.com/40192454/160865046-0f57d58a-6dee-4c12-8e5c-526553fe69d5.png)
+![image](https://user-images.githubusercontent.com/40192454/160865046-0f57d58a-6dee-4c12-8e5c-526553fe69d5.png)
 
 ## Contributing
 
