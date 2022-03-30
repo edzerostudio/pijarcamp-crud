@@ -110,7 +110,7 @@
                 <textarea name="keterangan" class="textarea textarea-bordered my-3" placeholder="Keterangan" disabled></textarea>
                 <input type="number" name="harga" placeholder="Harga" class="input input-bordered w-full max-w-xs my-3" disabled>
                 <input type="number" name="jumlah" placeholder="Jumlah" class="input input-bordered w-full max-w-xs my-3" disabled>
-                <div class="modal-view">
+                <div class="modal-action">
                     <label for="modal-view" class="btn">Close</label>
                 </div>
             </form>
