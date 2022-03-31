@@ -16,7 +16,11 @@ Simple web to Create, Read, Update and Delete your Product
 `npm run dev`\
 `php artisan migrate`\
 `php artisan db:seed`\
-`php artisan serve`
+`php artisan serve`\
+
+Login With:\
+`admin@pijarmahir.id`\
+`secret`
 
 ## Screenshot!
 ![image1](https://user-images.githubusercontent.com/40192454/160866040-a65194cf-1108-4820-83f5-cedc26544eba.png)
