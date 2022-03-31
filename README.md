@@ -18,8 +18,18 @@ Simple web to Create, Read, Update and Delete your Product
 `php artisan db:seed`\
 `php artisan serve`
 
+Login With:\
+`admin@pijarmahir.id`\
+`secret`
+
 ## Screenshot!
-![image](https://user-images.githubusercontent.com/40192454/160865046-0f57d58a-6dee-4c12-8e5c-526553fe69d5.png)
+![image1](https://user-images.githubusercontent.com/40192454/160866040-a65194cf-1108-4820-83f5-cedc26544eba.png)
+![image](https://user-images.githubusercontent.com/40192454/160866153-bf5b0e25-82b3-48df-bdcc-6e9453d5789c.png)
+![image](https://user-images.githubusercontent.com/40192454/160866168-ff5b0e83-f99a-4ab9-9399-d9093288c441.png)
+![image](https://user-images.githubusercontent.com/40192454/160866348-0118db93-ce84-4e53-bd92-f6d48f3fde95.png)
+![image](https://user-images.githubusercontent.com/40192454/160866195-8a5c6335-93d7-43ba-8253-6342d6b0689f.png)
+
+
 
 ## Contributing
 
