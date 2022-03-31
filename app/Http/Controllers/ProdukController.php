@@ -24,17 +24,6 @@ class ProdukController extends Controller
     }
 
     /**
-     * Menampilkan detail produk
-     *
-     * @param  \App\Models\Produk $produk
-     * @return \Illuminate\View\View
-     */
-    public function show(Produk $produk)
-    {
-        return json_encode($produk->findOrFail($produk->id));
-    }
-
-    /**
      * Menambahkan Produk
      *
      * @param  \App\Http\Requests\ProdukRequest  $request
