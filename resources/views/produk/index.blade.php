@@ -165,7 +165,7 @@
                 harga.value = data.harga;
                 jumlah.value = data.jumlah;
             }
-        }
+        };
         let onEdit = (route, data) => {
             var form = document.getElementById('formEditProduk')??null;
             if (form) {
@@ -182,12 +182,12 @@
                     jumlah.value = data.jumlah;
                 }
             }
-        }
+        };
         let onDelete = (route) => {
             var form = document.getElementById('formDeleteProduk')??null;
             if (form) {
                 form.action = route;
             }
-        }
+        };
     </script>
 </x-app-layout>
